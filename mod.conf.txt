@@ -1,0 +1,2 @@
+name = healdamage
+description = Cancels out damage that players receive based on privileges.

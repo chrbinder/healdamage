@@ -1,0 +1,8 @@
+# German Translation for healdamage
+# Deutsche Übersetzung für healdamage
+# last update: 2022-11-16
+# Author: chbinder
+# textdomain: healdamage
+
+#init.lua
+Gives player privilege which heals them when they take damage=Gibt Spieler:in die Berechtigung, damit Schäden sofort geheilt werden
