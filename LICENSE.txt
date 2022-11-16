@@ -1,0 +1,1 @@
+License Source Code: Copyright (C) 2022 Chris Binder - LGPL v2.1
